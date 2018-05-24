@@ -1,2 +1,2 @@
 # script
-this for maintenance scriot
+this for maintenance script
